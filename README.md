@@ -7,6 +7,7 @@ In this case study, we analyze social site Reddit data which contain memes poste
 
 # MEDIUM BLOG :
 For detail summary refer my medium blog about this project
+https://keyursenjaliya1114.medium.com/dank-or-not-analyzing-and-predicting-the-popularity-of-memes-on-reddit-3e29502fd4f6
 
 # REPOSITORY DESCRIPTION
 
