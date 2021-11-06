@@ -1,4 +1,5 @@
 # Dank_or_not: Analyzing and Predicting the Popularity of Memes on Reddit
+https://arxiv.org/pdf/2011.14326.pdf
 
 # BUSINESS OBJECTIVE AND PROBLEM :
 In digital marketing, memes are very useful and many company shares and interesting memes to entertain users and attract new users.
